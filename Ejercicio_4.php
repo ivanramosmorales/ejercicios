@@ -2,7 +2,8 @@
 <?php
 $numero = 1;
 $contador= 2;
-	while($contador <=20){
+$cont2 = 26;
+	while($contador <=$cont2){
 
 		// $numero =$numero * $contador;
 		$numero *= $contador;
@@ -11,7 +12,7 @@ echo $numero."<br/>";
 $contador++;
 	}
 
-echo "El resultado de multiplicar los 20 primeros numeros es ".$numero;
+echo "El resultado de multiplicar los ".$cont2." primeros numeros es ".$numero;
 
 
 ?>
