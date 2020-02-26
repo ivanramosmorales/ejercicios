@@ -88,7 +88,7 @@ $menu=array(
 
     array(
 
-        'titulo'            => 'Comerciales',
+        'titulo'            => 'Ejercicio 3',
 
         'enlace'            => 'Ejercicio 3.php',
 
@@ -108,9 +108,9 @@ $menu=array(
 
                 'id'        => 'index3a',
 
-                'titulo'    => 'Listado de Clientes',
+                'titulo'    => 'Ejercicio 4',
 
-                'enlace'    => 'index3a.php',
+                'enlace'    => 'Ejercicio_4.php',
 
             ),
 
