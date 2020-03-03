@@ -118,9 +118,9 @@ $menu=array(
 
                 'id'        => 'index3a',
 
-                'titulo'    => 'Listado de Proveedores',
+                'titulo'    => 'ejercicios 5',
 
-                'enlace'    => 'index3b.php',
+                'enlace'    => 'Ejercicio_5.php',
 
             ),
 

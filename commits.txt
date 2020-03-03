@@ -1,0 +1,23 @@
+commit 15c40f3be1ed09de3e8f847e4bacbe4e0bf4f69c
+Author: i.ramos.morales@outlook.com <i.ramos.morales@outlook.com>
+Date:   Wed Feb 26 00:37:54 2020 -0600
+
+    se agrego el ejercicio 4
+
+commit 9488fff67281e8f17e8e2f0ab7c7c3240050fc63
+Author: i.ramos.morales@outlook.com <i.ramos.morales@outlook.com>
+Date:   Wed Feb 26 00:35:38 2020 -0600
+
+    menu con 3 ejercicios
+
+commit d56e62ba318c7f6d312a983dc7ffb52b00d7d7f6
+Author: Ivan Ramos <i.ramos.morales@outlook.com>
+Date:   Thu Feb 13 21:18:21 2020 -0600
+
+    agrege mas codigo al ejercicio 4
+
+commit bb9179ba16b99f989a6ef0b0b8c93c7988776dc9
+Author: Ivan Ramos <i.ramos.morales@outlook.com>
+Date:   Thu Feb 13 21:13:58 2020 -0600
+
+    archivos originales
